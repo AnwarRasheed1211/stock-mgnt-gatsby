@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+var subject =[]
+>>>>>>> 9b02c23 (stock)
 
 
 import * as React from 'react'
@@ -9,9 +13,12 @@ export default funcation GradePage(props) {
     const params = new URLSearchParams(props.location.search);
     console.log(params.get("a"))
 
+<<<<<<< HEAD
 
     
 
 
 
+=======
+>>>>>>> 9b02c23 (stock)
 }

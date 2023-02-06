@@ -62,7 +62,7 @@ export default function BlogPage(props) {
 
 
     return <Container>
-        <h1>Blog</h1>
+        <h1>Edit</h1>
         <Link to="/blog/new">Create New Blog</Link>
         <Row>
             {blogList}

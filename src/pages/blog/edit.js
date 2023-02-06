@@ -20,12 +20,9 @@ export default function EditPage(props) {
             .then(res => res.json())
             .then(doc => {
                 console.log(doc)
-                if (formRef.current.topic)
-                    formRef.current.topic.value = doc.topic
-                if (formRef.current.content)
-                    formRef.current.content.value = doc.content
-                if (formRef.current.author)
-                    formRef.current.author.value = doc.author
+                formRef.current.topic.value = doc.topic
+                formRef.current.content.value = doc.content
+                formRef.current.author.value = doc.author
             })
     }, [])
 
@@ -35,7 +32,6 @@ export default function EditPage(props) {
         // console.log(formRef.current.content.value)
         // console.log(formRef.current.author.value)
         const blog = {
-            _id: params.get("id"),
             topic: formRef.current.topic.value,
             content: formRef.current.content.value,
             author: formRef.current.author.value
@@ -43,7 +39,7 @@ export default function EditPage(props) {
         console.log(blog)
 
         fetch(apiUrl, {
-            method: 'PUT',
+            method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
@@ -51,8 +47,8 @@ export default function EditPage(props) {
         })
             .then(res => res.json())
             .then(doc => {
-                console.log("Updated", doc)
-                alert("Updated")
+                console.log("Created", doc)
+                alert("Created")
                 // getBlogs()
             })
     }
