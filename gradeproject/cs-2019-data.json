@@ -1,0 +1,393 @@
+{
+    "subject": {
+        "General subject": [
+            {
+                "Cource No": " BG 1001",
+                "Cource title": "English 1",
+                "credit": "3"
+            },
+            {
+                "Cource No": "MGT 1101",
+                "Cource title": "Introduction to bussniess",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 1001",
+                "Cource title": "Basic mathematics and statistics",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3001",
+                "Cource title": "Fundamentals of coputer programming",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2001",
+                "Cource title": "Inrtoduction to information technology",
+                "credit": "3"
+            },
+            {
+                "Cource No": "BG 1002",
+                "Cource title": "English 2",
+                "credit": "3"
+            },
+            {
+                "Cource No": "BG 1400",
+                "Cource title": "Busniess Law 1",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3002",
+                "Cource title": "Object-Oriented Concepts and Programming",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2002",
+                "Cource title": "Calculus",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2003",
+                "Cource title": "Principle of statistics",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2004 ",
+                "Cource title": "UI/UX Design and Prototyping",
+                "credit": "3"
+            },
+            {
+                "Cource No": "BG 2000",
+                "Cource title": "English 3",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2005",
+                "Cource title": "Design Thinking",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2005",
+                "Cource title": "Design Thinking",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2006",
+                "Cource title": "Mathematics and statistics for data Science",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3003",
+                "Cource title": "Data structure and Algorithm",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3004",
+                "Cource title": "Programming Language",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3005",
+                "Cource title": "Computer Networks",
+                "credit": "3"
+            },
+            {
+                "Cource No": "BG 2001",
+                "Cource title": "English 3",
+                "credit": "3"
+            },
+            {
+                "Cource No": "ACT 1601",
+                "Cource title": "Fundamentals of Financial Accounting",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2007",
+                "Cource title": "Data Science",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2008",
+                "Cource title": "Mathematics foundation for Computer",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2008",
+                "Cource title": "Database Systems",
+                "credit": "3"
+            },
+            {
+                "Cource No": "/////",
+                "Cource title": "////",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 2009",
+                "Cource title": "Cloud Computing",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3007",
+                "Cource title": "Computer Architecture",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3008",
+                "Cource title": "Operating Systems",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3009",
+                "Cource title": "Algorithm design",
+                "credit": "3"
+            },
+            {
+                "Cource No": "//////",
+                "Cource title": "////",
+                "credit": "3"
+            },
+            {
+                "Cource No": "/////",
+                "Cource title": "////",
+                "credit": "3"
+            },
+            {
+                "Cource No": "GE 2202",
+                "Cource title": "Ethics",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 3010",
+                "Cource title": "Senior Project 1",
+                "credit": "3"
+            },
+            {
+                "Cource No": "//////",
+                "Cource title": "//////",
+                "credit": "3"
+            },
+            {
+                "Cource No": "////",
+                "Cource title": "///",
+                "credit": "3"
+            },
+            {
+                "Cource No": "/////",
+                "Cource title": "//////",
+                "credit": "3"
+            }
+        ],
+        "Group A": [
+            {
+                "Cource No": "CSX 4101",
+                "Cource title": "Software Engineering and Development",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 4102",
+                "Cource title": "Sodtware Engineering",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 4103",
+                "Cource title": "Reqirement Engineering",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 4104",
+                "Cource title": "Software Engeering",
+                "credit": "3"
+            },
+            {
+                "Cource No": "CSX 4105",
+                "Cource title": "IT Project Management",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4106",
+                "Cource title": "Enterprise Architecture",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4107",
+                "Cource title": "Web Application Development",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4108",
+                "Cource title": "iOS Application Development",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4109",
+                "Cource title": "Android Application Development",
+                "credit": "3"
+            }
+        ],
+
+        "Group B": [
+            {
+                "Cource No": "CSX 4201",
+                "Cource title": "Artificial Intelligence Concepts",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4202",
+                "Cource title": "Data Mining",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4203",
+                "Cource title": "Machine Learning",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4204",
+                "Cource title": "Biometrics",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4205",
+                "Cource title": "Big Data Analytics",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4206",
+                "Cource title": "Data Warehousing and Business Intelligence",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4207",
+                "Cource title": "Decision Support and Recommender Systems",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4208",
+                "Cource title": "Deep Learning",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4209",
+                "Cource title": "Intelligent System Development",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4210",
+                "Cource title": "Natural Language Processing and Social Interactions",
+                "credit": "3"
+            }
+        ],
+
+        "Group c": [
+            {
+                "Cource No": "CSX 4301",
+                "Cource title": "Network Design",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4302",
+                "Cource title": "Cisco Networking Workshop",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4303",
+                "Cource title": "Network Security",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4304",
+                "Cource title": "Network Management",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4305",
+                "Cource title": "Heterogeneous Wireless Networks",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4306",
+                "Cource title": "Internet of Things",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4307",
+                "Cource title": "Business Continuity Planning and Management",
+                "credit": "3"
+            }
+        ],
+        "Group D": [
+            {
+                "Cource No": "CSX 4401",
+                "Cource title": "Business Systems",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4402",
+                "Cource title": "Sales and Distribution Management System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4403",
+                "Cource title": "Manufacturing Management System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4404",
+                "Cource title": "Supply Chain Management System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4405",
+                "Cource title": "Finance and Accounting Information System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4406",
+                "Cource title": "Customer Relationship Management System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4407",
+                "Cource title": "Enterprise Application Development",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4408",
+                "Cource title": "Enterprise Database System",
+                "credit": "3"
+            },
+
+            {
+                "Cource No": "CSX 4409",
+                "Cource title": "Blockchain Technology",
+                "credit": "3"
+            }
+        ]
+    }
+}
