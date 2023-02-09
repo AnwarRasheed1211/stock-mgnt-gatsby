@@ -1,0 +1,389 @@
+[
+    {
+        "subject_Id":"1", "Subject_Name":"CS","General subject": [
+                {
+                    
+                    "Course title": "BG 1001 English 1",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                 
+                    "Course title": "MGT 1101 Introduction to bussniess",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 1001 Basic mathematics and statistics",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3001 Fundamentals of coputer programming",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 2001 Inrtoduction to information technology",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "BG 1002 English 2",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "BG 1400 Busniess Law 1",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3002 Object-Oriented Concepts and Programming",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 2002 Calculus",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 2003 Principle of statistics",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 2004 UI/UX Design and Prototyping",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "BG 2000 English 3",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+
+                    "Course title": "CSX 2005 Design Thinking",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 2005 Design Thinking",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 2006 Mathematics and statistics for data Science",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3003 Data structure and Algorithm",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3004 Programming Language",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 3005 Computer Networks",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "BG 2001 English 3",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "ACT 1601 Fundamentals of Financial Accounting",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 2007 Data Science",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 2008 Mathematics foundation for Computer",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+        
+                    "Course title": "CSX 3006 Database Systems",
+                    "credit": "3",
+                    "subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 2009 Cloud Computing",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3007 Computer Architecture",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3008 Operating Systems",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                  
+                    "Course title": "CSX 3009 Algorithm design",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                
+                {
+                    
+                    "Course title": "GE 2202 Ethics",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 3010 Senior Project 1",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+               
+            
+                {
+                    
+                    "Course title": "CSX 4101 Software Engineering and Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4102 Sodtware Engineering",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 4103 Reqirement Engineering",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4104 Software Engeering",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4105 IT Project Management",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                 
+                    "Course title": "CSX 4106 Enterprise Architecture",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4107 Web Application Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+    
+                    "Course title": "CSX 4108 iOS Application Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course No": "CSX 4109",
+                    "Course title": "CSX 4109 Android Application Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+    
+                {
+                   
+                    "Course title": "CSX 4201 Artificial Intelligence Concepts",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4202 Data Mining",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4203 Machine Learning",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4204 Biometrics",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4205 Big Data Analytics",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4206 Data Warehousing and Business Intelligence",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                  
+                    "Course title": "CSX 4207 Decision Support and Recommender Systems",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                  
+                    "Course title": "CSX 4208 Deep Learning",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4209 Intelligent System Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 4210 Natural Language Processing and Social Interactions",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+        
+                {
+                   
+                    "Course title": "CSX 4301 Network Design",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 4302 Cisco Networking Workshop",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4303 Network Security",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                   
+                    "Course title": "CSX 4304 Network Management",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    
+                    "Course title": "CSX 4305 Heterogeneous Wireless Networks",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                 
+                    "Course title": "CSX 4306 Internet of Things",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4307 Business Continuity Planning and Management",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+           
+                {
+                    "Course title": "CSX 4401 Business Systems",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4402 Sales and Distribution Management System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4403 Manufacturing Management System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4404 Supply Chain Management System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4405 Finance and Accounting Information System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4406 Customer Relationship Management System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4407 Enterprise Application Development",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course title": "CSX 4408 Enterprise Database System",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                },
+                {
+                    "Course No": "CSX 4409",
+                    "Course title": "Blockchain Technology",
+                    "credit": "3"
+                    ,"subject_Id":"1"
+                }
+            ]},
+            {"subject_Id": "2","Subject_Name":"IT","General subject": [
+                {
+                    "Course No": "BG"
+                }
+            ]
+        }
+]

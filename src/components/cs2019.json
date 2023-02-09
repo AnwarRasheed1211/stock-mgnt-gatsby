@@ -1,0 +1,414 @@
+{
+    "curriculum": [
+        {
+            "subject_Id": "1",
+            "major": "Computer Science",
+            "subjects": [
+                {
+                    "course code": "BG 1001",
+                    "course name": "English I"
+                },
+                {
+                    "course code": "BG 1002",
+                    "course name": "English II"
+                },
+                {
+                    "course code": "BG 2000",
+                    "course name": "English III"
+                },
+                {
+                    "course code": "BG 2001",
+                    "course name": "English IV"
+                },
+                {
+                    "course code": "LAW 1201",
+                    "course name": "Business Laws for Entrepreneurs"
+                },
+                {
+                    "course code": "GE 2202",
+                    "course name": "Ethics"
+                },
+                {
+                    "course code": "BBA 1001",
+                    "course name": "Business Exploration"
+                },
+                {
+                    "course code": "BAC 1602",
+                    "course name": "Fundamentals of Financial Accounting I"
+                },
+                {
+                    "course code": "CSX 1001",
+                    "course name": "Basic Mathematics and Statistics"
+                },
+                {
+                    "course code": "GE 1103",
+                    "course name": "Historical Perspectives on Thailand"
+                },
+                {
+                    "course code": "GE 1102",
+                    "course name": "Introduction to Philosophy"
+                },
+                {
+                    "course code": "GE 2102",
+                    "course name": "Human Heritage and Globalization"
+                },
+                {
+                    "course code": "GE 2103",
+                    "course name": "Art of Reasoning"
+                },
+                {
+                    "course code": "GE 2104",
+                    "course name": "Thai Buddhism"
+                },
+                {
+                    "course code": "GE 2105",
+                    "course name": "Introduction to World Religion"
+                },
+                {
+                    "course code": "GE 2106",
+                    "course name": "Logical Thinking and Application"
+                },
+                {
+                    "course code": "GE 2107",
+                    "course name": "Applied Philosophy in Social Sciences and Humanities"
+                },
+                {
+                    "course code": "BBA 2001",
+                    "course name": "Human Behavior"
+                },
+                {
+                    "course code": "GE 1207",
+                    "course name": "Fundamental Psychology"
+                },
+                {
+                    "course code": "GE 1203",
+                    "course name": "Society, Politics and Economics"
+                },
+                {
+                    "course code": "GE 1205",
+                    "course name": "ASEAN Ways"
+                },
+                {
+                    "course code": "GE 1206",
+                    "course name": "Philosophy of Sufficiency Economy"
+                },
+                {
+                    "course code": "GE 2203",
+                    "course name": "Art of Living"
+                },
+                {
+                    "course code": "GE 2205",
+                    "course name": "Communication and Multicultural society"
+                },
+                {
+                    "course code": "GE 2206",
+                    "course name": "Personality Development"
+                },
+                {
+                    "course code": "GE 2207",
+                    "course name": "Sport, Health and Wellness Development"
+                },
+                {
+                    "course code": "GE 2208",
+                    "course name": "Thai Politics and Government"
+                },
+                {
+                    "course code": "BEC 2200",
+                    "course name": "Introduction to Economics"
+                },
+                {
+                    "course code": "GE 1302",
+                    "course name": "Ecology and Sustainability"
+                },
+                {
+                    "course code": "GE 2301",
+                    "course name": "Lifestyles in Dynamic World"
+                },
+                {
+                    "course code": "GE 2302",
+                    "course name": "Climate Change and Human Life"
+                },
+                {
+                    "course code": "GE 2303",
+                    "course name": "Building Brilliant Brain"
+                },
+                {
+                    "course code": "MA 1200",
+                    "course name": "Mathematics for Business"
+                },
+                {
+                    "course code": "GE 1403",
+                    "course name": "Communication in Thai"
+                },
+                {
+                    "course code": "GE 1405",
+                    "course name": "Thai Language and Culture"
+                },
+                {
+                    "course code": "GE 1406",
+                    "course name": "Burmese Language"
+                },
+                {
+                    "course code": "GE 1407",
+                    "course name": "Russian Language"
+                },
+                {
+                    "course code": "GE 3401",
+                    "course name": "Public Speaking in Thai"
+                },
+                {
+                    "course code": "CSX 2001",
+                    "course name": "Introduction to Information Technology"
+                },
+                {
+                    "course code": "CSX 2002",
+                    "course name": "Calculus"
+                },
+                {
+                    "course code": "CSX 2003",
+                    "course name": "Principles of Statistics"
+                },
+                {
+                    "course code": "CSX 2004",
+                    "course name": "UI/UX Design and Prototyping"
+                },
+                {
+                    "course code": "CSX 2005",
+                    "course name": "Design Thinking"
+                },
+                {
+                    "course code": "CSX 2006",
+                    "course name": "Mathematics and Statistics for Data Science"
+                },
+                {
+                    "course code": "CSX 2007",
+                    "course name": "Data Science"
+                },
+                {
+                    "course code": "CSX 2008",
+                    "course name": "Mathematics Foundation for Computer Science"
+                },
+                {
+                    "course code": "CSX 2009",
+                    "course name": "Cloud Computing"
+                },
+                {
+                    "course code": "CSX 3001",
+                    "course name": "Fundamentals of Computer Programming"
+                },
+                {
+                    "course code": "CSX 3002",
+                    "course name": "Object-Oriented Concepts and Programming"
+                },
+                {
+                    "course code": "CSX 3003",
+                    "course name": "Data Structure and Algorithms"
+                },
+                {
+                    "course code": "CSX 3004",
+                    "course name": "Programming Languages"
+                },
+                {
+                    "course code": "CSX 3005",
+                    "course name": "Computer Networks"
+                },
+                {
+                    "course code": "CSX 3006",
+                    "course name": "Database Systems"
+                },
+                {
+                    "course code": "CSX 3007",
+                    "course name": "Computer Architecture"
+                },
+                {
+                    "course code": "CSX 3008",
+                    "course name": "Operating Systems"
+                },
+                {
+                    "course code": "CSX 3009",
+                    "course name": "Algorithm Design"
+                },
+                {
+                    "course code": "CSX 3010",
+                    "course name": "Senior Project I"
+                },
+                {
+                    "course code": "CSX 3011",
+                    "course name": "Senior Project II"
+                },
+                {
+                    "course code": "CSX 4101",
+                    "course name": "Information System Analysis and Design"
+                },
+                {
+                    "course code": "CSX 4102",
+                    "course name": "Software Engineering"
+                },
+                {
+                    "course code": "CSX 4103",
+                    "course name": "Requirement Engineering"
+                },
+                {
+                    "course code": "CSX 4104",
+                    "course name": "Software Testing"
+                },
+                {
+                    "course code": "CSX 4105",
+                    "course name": "IT Project Management"
+                },
+                {
+                    "course code": "CSX 4106",
+                    "course name": "Enterprise Architecture"
+                },
+                {
+                    "course code": "CSX 4107",
+                    "course name": "Web Application Development"
+                },
+                {
+                    "course code": "CSX 4108",
+                    "course name": "iOS Application Development"
+                },
+                {
+                    "course code": "CSX 4109",
+                    "course name": "Android Application Development"
+                },
+                {
+                    "course code": "CSX 4201",
+                    "course name": "Artificial Intelligence Concepts"
+                },
+                {
+                    "course code": "CSX 4202",
+                    "course name": "Data Mining"
+                },
+                {
+                    "course code": "CSX 4203",
+                    "course name": "Machine Learning"
+                },
+                {
+                    "course code": "CSX 4204",
+                    "course name": "Biometrics"
+                },
+                {
+                    "course code": "CSX 4205",
+                    "course name": "Big Data Analytics"
+                },
+                {
+                    "course code": "CSX 4206",
+                    "course name": "Data Warehousing and Business Intelligence"
+                },
+                {
+                    "course code": "CSX 4207",
+                    "course name": "Decision Support and Recommender Systems"
+                },
+                {
+                    "course code": "CSX 4208",
+                    "course name": "Deep Learning"
+                },
+                {
+                    "course code": "CSX 4209",
+                    "course name": "Intelligent System Development"
+                },
+                {
+                    "course code": "CSX 4210",
+                    "course name": "Natural Language Processing and Social Interactions"
+                },
+                {
+                    "course code": "CSX 4301",
+                    "course name": "Network Design"
+                },
+                {
+                    "course code": "CSX 4302",
+                    "course name": "Cisco Networking Workshop"
+                },
+                {
+                    "course code": "CSX 4303",
+                    "course name": "Network Security"
+                },
+                {
+                    "course code": "CSX 4304",
+                    "course name": "Network Management"
+                },
+                {
+                    "course code": "CSX 4305",
+                    "course name": "Heterogeneous Wireless Networks"
+                },
+                {
+                    "course code": "CSX 4306",
+                    "course name": "Internet of Things"
+                },
+                {
+                    "course code": "CSX 4307",
+                    "course name": "Business Continuity Planning and Management"
+                },
+                {
+                    "course code": "CSX 4401",
+                    "course name": "Business Systems"
+                },
+                {
+                    "course code": "CSX 4402",
+                    "course name": "Sales and Distribution Management System"
+                },
+                {
+                    "course code": "CSX 4403",
+                    "course name": "Manufacturing Management System"
+                },
+                {
+                    "course code": "CSX 4404",
+                    "course name": "Supply Chain Management System"
+                },
+                {
+                    "course code": "CSX 4405",
+                    "course name": "Finance and Accounting Information System"
+                },
+                {
+                    "course code": "CSX 4406",
+                    "course name": "Customer Relationship Management System"
+                },
+                {
+                    "course code": "CSX 4407",
+                    "course name": "Enterprise Application Development"
+                },
+                {
+                    "course code": "CSX 4408",
+                    "course name": "Enterprise Database System"
+                },
+                {
+                    "course code": "CSX 4409",
+                    "course name": "Blockchain Technology"
+                },
+                {
+                    "course code": "CSX 4501",
+                    "course name": "Theory of Computation"
+                },
+                {
+                    "course code": "CSX 4502",
+                    "course name": "Tech Startup"
+                },
+                {
+                    "course code": "CSX 4503",
+                    "course name": "Information Systems Security"
+                },
+                {
+                    "course code": "CSX 4504",
+                    "course name": "Digital Marketing"
+                },
+                {
+                    "course code": "CSX 4505",
+                    "course name": "Digital Transformation"
+                },
+                {
+                    "course code": "CSX 4506",
+                    "course name": "Image Processing"
+                },
+                {
+                    "course code": "CSX 4507",
+                    "course name": "Information Retrieval and Search Engines"
+                },
+                {
+                    "course code": "CSX 4508",
+                    "course name": "Quantitative Research for Digital Business"
+                }
+            ]
+        }
+    ]
+}
